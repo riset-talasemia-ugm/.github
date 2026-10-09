@@ -17,4 +17,4 @@ A collaborative research project at **Universitas Gadjah Mada (UGM)** on compute
 
 ## Team and affiliation
 
-Research team at the **Universitas Gadjah Mada**, working together with our supervising lecturer.
+Research team at the **Electronics and Instrumentation Research Laboratory**, Department of Computer Science and Electronics, Faculty of Mathematics and Natural Sciences, **Universitas Gadjah Mada**, working together with our supervising lecturer.
