@@ -1,6 +1,6 @@
 # Thalassemia Research · Universitas Gadjah Mada
 
-A collaborative research project at **Universitas Gadjah Mada (UGM)** on computer-assisted analysis of peripheral blood smears for **thalassemia** screening. We work on acquiring microscope images and on classifying red blood cell (RBC) morphology with machine learning.
+A collaborative research project at **Universitas Gadjah Mada (UGM)** on computer-assisted analysis of peripheral blood smears for **thalassemia** screening. We work on acquiring microscope images and on classifying red blood cell (RBC) morphology with deep learning.
 
 ## Research focus
 
