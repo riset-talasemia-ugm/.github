@@ -6,6 +6,7 @@ A collaborative research project at **Universitas Gadjah Mada (UGM)** on compute
 
 - **Image acquisition:** collecting consistent, full-field peripheral blood smear images from a USB microscope camera.
 - **RBC morphology:** segmentation and classification of red blood cells, including overlapping cells and imbalanced classes.
+- **Dataset harmonisation:** extending the Chula 12-class scheme with additional locally labelled smears, with documented class-mapping decisions grounded in ICSH nomenclature.
 - **Clinical alignment:** images are annotated on the full field of view so that annotation matches how clinicians read a smear.
 
 ## Repositories
@@ -15,6 +16,7 @@ A collaborative research project at **Universitas Gadjah Mada (UGM)** on compute
 | [image-acquisition-app](https://github.com/riset-talasemia-ugm/image-acquisition-app) | Local web app for acquiring peripheral blood smear images from a USB microscope camera (Windows and Ubuntu/Linux). |
 | [Chula-RBC-12-Dataset](https://github.com/riset-talasemia-ugm/Chula-RBC-12-Dataset) | Our fork of the public Chula RBC-12 dataset (RBC segmentation and classification), with additions for this project. |
 | [rbc-detr-segmentation](https://github.com/riset-talasemia-ugm/rbc-detr-segmentation) | Training and evaluation of RF-DETR instance segmentation models for RBC morphology, with 5-fold cross-validation and a comparison of fp32, fp16, INT8 and pruned variants. |
+| sardjito-talasemia-dataset *(private)* | Additional labelled peripheral blood smear images with a script that overlays each cell's morphology type onto the full-resolution image, mapped to the Chula class scheme. |
 
 ## Team and affiliation
 
