@@ -16,6 +16,7 @@ A collaborative research project at **Universitas Gadjah Mada (UGM)** on compute
 | [image-acquisition-app](https://github.com/riset-talasemia-ugm/image-acquisition-app) | Local web app for acquiring peripheral blood smear images from a USB microscope camera (Windows and Ubuntu/Linux). |
 | [Chula-RBC-12-Dataset](https://github.com/riset-talasemia-ugm/Chula-RBC-12-Dataset) | Our fork of the public Chula RBC-12 dataset (RBC segmentation and classification), with additions for this project. |
 | [rbc-detr-segmentation](https://github.com/riset-talasemia-ugm/rbc-detr-segmentation) | Training and evaluation of RF-DETR instance segmentation models for RBC morphology, with 5-fold cross-validation and a comparison of fp32, fp16, INT8 and pruned variants. |
+| [Rbc-YOLO26-Segmentation](https://github.com/riset-talasemia-ugm/Rbc-YOLO26-Segmentation) | Training and evaluation of RF-DETR instance segmentation models for RBC morphology, with 5-fold cross-validation and a comparison of YOLO26 variants and knowledge distillation. |
 | sardjito-talasemia-dataset *(private)* | Additional labelled peripheral blood smear images with a script that overlays each cell's morphology type onto the full-resolution image, mapped to the Chula class scheme. |
 
 ## Team and affiliation
